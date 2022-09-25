@@ -1,0 +1,12 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+body {
+  background-color: honeydew;
+  text-align: left;
+  display: block;
+}
+button {
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
